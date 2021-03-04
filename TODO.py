@@ -1,0 +1,1 @@
+# TODO: ch03/a03.1 MINIST -> MNIST
