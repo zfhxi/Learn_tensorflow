@@ -1,1 +1,1 @@
-# TODO: ch03/a03.1 MINIST -> MNIST
+# TODO: a04.1 -> a04.01
